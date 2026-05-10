@@ -34,6 +34,8 @@ Comment: "The editing was rough and the pacing felt off to me" -> no
 Comment: "Bold of you to post this with that profile picture 💀" -> yes
 Comment: "I respectfully disagree — the data doesn't support that claim" -> no
 Comment: "Sure, if you ignore literally every fact, that makes sense" -> yes
+Comment: "J Bar and C Fred are having anal sex together...." -> yes
+Comment: "You're watching Dirty Jobs too I guess? Haha......" -> yes
 
 Now classify the following comment. Reply only "yes" or "no", nothing else.
 
