@@ -8,3 +8,4 @@ outputs/*.png
 
 # OS
 .DS_Store
+venv/
